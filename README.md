@@ -1,0 +1,2 @@
+# wordlist
+Directory bruteforce list
